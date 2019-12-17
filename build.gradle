@@ -1,0 +1,6 @@
+dependencies {
+    compile("com.mercadopago.android.px:checkout:4.+") {
+        exclude group: 'com.google.gson'
+	exclude group: 'com.google.code.gson'
+    }
+}

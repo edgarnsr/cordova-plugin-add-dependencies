@@ -1,0 +1,20 @@
+{
+  "name": "cordova-plugin-add-dependencies",
+  "version": "0.0.1",
+  "description": "cordova-plugin-add-dependencies",
+  "cordova": {
+    "id": "cordova-plugin-add-dependencies",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "cordova",
+    "dependencies",
+    "android",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Edgar Salmeron",
+  "license": "Apache 2.0"
+}
