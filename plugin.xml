@@ -6,7 +6,7 @@
     <license>Apache 2.0</license>
     <keywords>cordova,dependencies,android</keywords>
     <platform name="android">
-        <framework src="com.mastercard.gateway:gateway-android:1.1.9" />
+        <framework src="com.mastercard.gateway:gateway-android:1.1.8" />
     </platform>
     <platform name="ios">
         
